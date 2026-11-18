@@ -347,4 +347,7 @@ rtp://239.255.30.242:8231
 rtp://239.255.30.79:8231
 #EXTINF:-1 tvg-name="更新时间" group-title="卫视频道", 更新时间25.12.28
 rtp://239.255.30.177:8231
+#健身视频
+#EXTINF:-1 tvg-name="每天一组12分钟专项步" group-title="健身视频"
+http://192.168.8.232/cgi-bin/luci/admin/services/linkease/file/editor?path=/overlay/%E8%A7%86%E9%A2%91/1080p_%E6%AF%8F%E5%A4%A9%E4%B8%80%E7%BB%8412%E5%88%86%E9%92%9F%E4%B8%93%E9%A1%B9%E6%AD%A5_20261118003701.mp4
 
